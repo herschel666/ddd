@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Build Microblog
-        uses: herschel666/microbolog-action@eb388eca3c3d02f175634ae5dd146dde00d3dd6c
+        uses: herschel666/microbolog-action@v0.1.0-pre.0
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           base-path: '/ddd/'
