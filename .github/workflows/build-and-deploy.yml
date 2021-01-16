@@ -11,9 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Output current working dir
-        run: pwd
-
       - name: Build Microblog
         uses: herschel666/microblog-action@KillYourMaster
         with:
