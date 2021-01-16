@@ -1,0 +1,27 @@
+name: Build and Deploy
+
+on:
+  issues:
+    types: [opened, edited, reopened, closed, deleted]
+
+jobs:
+  ci-cd:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build Microblog
+        uses: herschel666/microbolog-action
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          base-path: '/ddd/'
+          title: 'dddddddddddddd'
+
+      - name: Deploy Microblog
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: _site
+          CLEAN: true
