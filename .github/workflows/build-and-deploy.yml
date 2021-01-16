@@ -17,6 +17,7 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           base-path: '/ddd/'
           title: 'dddddddddddddd'
+          theme: 'tacit'
 
       - name: Deploy Microblog
         uses: JamesIves/github-pages-deploy-action@3.7.1
