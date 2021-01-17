@@ -2,7 +2,7 @@ name: Build and Deploy
 
 on:
   issues:
-    types: [opened, edited, reopened, closed, deleted]
+    types: [opened, edited, reopened, closed, deleted, labeled, unlabeled]
 
 jobs:
   ci-cd:
