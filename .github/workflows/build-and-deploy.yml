@@ -18,6 +18,7 @@ jobs:
           url: 'https://herschel666.github.io/ddd'
           title: 'dddddddddddddd'
           theme: 'tacit'
+          posts-per-page: 3
 
       - name: Deploy Microblog
         uses: JamesIves/github-pages-deploy-action@3.7.1
