@@ -17,6 +17,7 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           url: 'https://herschel666.github.io/ddd'
           title: 'dddddddddddddd'
+          description: 'Nothing to see here!'
           theme: 'tacit'
           posts-per-page: 3
 
