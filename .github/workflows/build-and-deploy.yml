@@ -15,7 +15,7 @@ jobs:
         uses: herschel666/microblog-action@KillYourMaster
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          base-path: '/ddd/'
+          url: 'https://herschel666.github.io/ddd'
           title: 'dddddddddddddd'
           theme: 'tacit'
 
