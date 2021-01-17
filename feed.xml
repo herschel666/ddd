@@ -9,7 +9,18 @@
     
     <link>https://herschel666.github.io/ddd/</link>
     <generator>https://github.com/herschel666/microblog-action</generator>
-    <lastBuildDate>Sun, 17 Jan 2021 16:48:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2021 16:58:52 +0000</lastBuildDate>
+    
+    <item>
+      <title>A real issue</title>
+      <link>https://herschel666.github.io/ddd/posts/787747780.html</link>
+      <guid isPermaLink="false">787747780</guid>
+      <pubDate>Sun, 17 Jan 2021 16:58:25 +0000</pubDate>
+      <description>
+        <![CDATA[<p>Hey, there's something borken! Pls fix asap!!! 🤬</p>
+]]>
+      </description>
+    </item>
     
     <item>
       <title>Test #9</title>
@@ -32,18 +43,6 @@
       <description>
         <![CDATA[<p>Ex pariatur consectetur pariatur sit. Duis quis veniam ea adipisicing cillum adipisicing sint excepteur occaecat officia. Do mollit qui deserunt adipisicing.</p>
 <p><del>Eiusmod nulla culpa qui incididunt enim. Proident dolore aliqua ipsum mollit irure mollit exercitation mollit incididunt eu sint sint anim consequat. Ut mollit quis minim non velit ut nostrud labore laborum.</del></p>
-]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>Test #7</title>
-      <link>https://herschel666.github.io/ddd/posts/787661822.html</link>
-      <guid isPermaLink="false">787661822</guid>
-      <pubDate>Sun, 17 Jan 2021 08:53:16 +0000</pubDate>
-      <description>
-        <![CDATA[<p><img src="https://user-images.githubusercontent.com/520258/104835867-c99a9300-58a9-11eb-95aa-1ec85715190b.png" alt="bw"></p>
-<p>Nulla do mollit quis eiusmod fugiat excepteur quis occaecat sint eiusmod Lorem. Aliquip ea id aliquip officia mollit sint ad ex tempor Lorem occaecat pariatur. Ut ullamco in do sint cupidatat adipisicing nostrud minim cillum dolor ad adipisicing dolore. Ipsum deserunt dolore consectetur nostrud. Laborum ea eiusmod elit sunt cupidatat minim.</p>
 ]]>
       </description>
     </item>
