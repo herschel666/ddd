@@ -21,6 +21,7 @@ jobs:
           theme: 'tacit'
           posts-per-page: 3
           custom-styles: 'custom.css'
+          label: 'blog'
 
       - name: Deploy Microblog
         uses: JamesIves/github-pages-deploy-action@3.7.1
