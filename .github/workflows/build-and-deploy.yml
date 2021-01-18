@@ -22,6 +22,7 @@ jobs:
           posts-per-page: 3
           custom-styles: 'custom.css'
           label: 'blog'
+          i18n.posts: 'Articles'
 
       - name: Deploy Microblog
         uses: JamesIves/github-pages-deploy-action@3.7.1
