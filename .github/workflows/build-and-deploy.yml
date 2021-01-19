@@ -19,6 +19,7 @@ jobs:
           title: 'dddddddddddddd'
           description: 'Nothing to see here!'
           theme: 'tacit'
+          pages: 'misc/*.md'
           posts-per-page: 3
           custom-styles: 'custom.css'
           label: 'blog'
